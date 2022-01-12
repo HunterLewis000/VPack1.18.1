@@ -1,2 +1,2 @@
 # VPack1.18
- The Minecraft Texture Pack
+ Our Minecraft 1.18 Texture Pack! :)
